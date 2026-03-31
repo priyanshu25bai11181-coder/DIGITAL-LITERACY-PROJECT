@@ -55,11 +55,10 @@ As a **Student Digital Ambassador**, this project demonstrates my learning acros
 ---
 
 ## 🔗 Useful Links
-- 🌐 GitHub: https://github.com  
-- 💼 LinkedIn: https://linkedin.com  
-- 💻 HackerRank: https://hackerrank.com  
-- 📝 Google Forms: https://forms.google.com  
-- 🔐 Cyber Crime Portal: https://cybercrime.gov.in  
+- 🌐 GitHub:   
+- 💼 LinkedIn: [https://linkedin.com ](https://www.linkedin.com/in/priyanshu-jain-b70975381?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+- 📝 Google Forms: [https://forms.google.com ](https://docs.google.com/forms/d/1S3qG6e50PltV_WQHwbDXHN6iXxx8jwz3cQZoSOAIOkY/edit) 
+
 
 ---
 
