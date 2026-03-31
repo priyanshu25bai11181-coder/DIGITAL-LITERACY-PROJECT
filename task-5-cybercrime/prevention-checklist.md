@@ -1,9 +1,9 @@
-# 🔐 Stay Safe Online – Cybercrime Prevention Checklist
+#  Stay Safe Online – Cybercrime Prevention Checklist
 
 As college students, it is important to stay aware of online threats and take preventive measures to protect personal and financial information. Below are some essential safety tips:
 
 
-## 🛡️ General Safety Tips
+##  General Safety Tips
 
 - Use **strong and unique passwords** for all accounts  
 - Enable **Two-Factor Authentication (2FA)** wherever possible  
@@ -13,7 +13,7 @@ As college students, it is important to stay aware of online threats and take pr
 - Avoid using **public Wi-Fi for sensitive transactions**  
 
 
-## 💳 Financial / UPI Safety Tips
+##  Financial / UPI Safety Tips
 
 - Never share your **OTP, UPI PIN, or banking details** with anyone  
 - Double-check the **receiver’s UPI ID** before making any payment  
@@ -22,16 +22,16 @@ As college students, it is important to stay aware of online threats and take pr
 
 
 
-## ⚠️ Awareness & Responsibility
+##  Awareness & Responsibility
 
 - Be cautious while sharing **personal information on social media**  
 - Report any suspicious activity immediately  
 
 
-## 🚨 Reporting Cybercrime (India)
+##  Reporting Cybercrime (India)
 
-- 🌐 National Cyber Crime Portal: https://cybercrime.gov.in  
-- 📞 Helpline Number: **1930** (24x7 support)  
+- National Cyber Crime Portal: https://cybercrime.gov.in  
+- Helpline Number: **1930** (24x7 support)  
 
 
 
