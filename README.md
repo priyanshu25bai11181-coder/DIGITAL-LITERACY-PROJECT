@@ -1,7 +1,7 @@
 # DIGITAL-LITERACY-PROJECT
 # 📘 Digital Literacy Project
 
-## 👤 Student Details
+## 👤 Student Information
 - **Name:** Priyanshu Jain  
 - **Registration Number:** 25BAI11181  
 - **Branch:** CSE (AI & ML)  
@@ -12,14 +12,13 @@
 ---
 
 ## 📌 Project Overview
-This project is created as part of the **Digital Literacy course**.  
-The objective is to build awareness about digital tools, online safety, professional communication, and cybercrime prevention.
-
-As a **Student Digital Ambassador**, this project demonstrates my learning across multiple digital platforms and practices required for responsible digital participation.
+This project has been created in fulfillment of the **Digital Literacy course**.  
+The project aims to raise awareness about digital tools, online safety, professional communication, and cybercrime prevention.  
+This project, being a **Student Digital Ambassador**, demonstrates my learning across multiple digital platforms and practices.  
 
 ---
 
-## 🧠 Task Summary
+## 🧠 Task Overview
 
 ### ✅ Task 1 – Digital Literacy Infographic
 - Created an infographic using Canva  
@@ -71,7 +70,6 @@ As a **Student Digital Ambassador**, this project demonstrates my learning acros
 ---
 
 ## 📌 Conclusion
-This project helped me understand the importance of digital literacy in academic and professional life. It enhanced my technical skills, communication abilities, and awareness about online safety.
+This project helped me understand the importance of digital literacy in academic and professional life. It enhanced my technical skills, communication skills, and awareness about online safety.  
 
 ---
-
