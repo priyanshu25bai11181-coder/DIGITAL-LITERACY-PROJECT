@@ -35,5 +35,5 @@ As college students, it is important to stay aware of online threats and take pr
 
 
 
-## 📌 Note
+##  Note
 Being alert and responsible online can help prevent cybercrime and protect your digital identity.
